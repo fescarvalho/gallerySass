@@ -66,6 +66,9 @@ body ul {
 .header-social-media ul li {
   margin: 0 1rem;
 }
+.header-social-media ul li a {
+  font-size: 1.4rem;
+}
 .header-social-media ul li a:hover {
   color: #fff;
 }
